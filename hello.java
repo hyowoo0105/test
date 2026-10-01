@@ -1,6 +1,6 @@
 package com.salesforce.basic;
 
-puvlic class Hello {
+public class Hello {
 
   public static void main(String[] args) {
 
